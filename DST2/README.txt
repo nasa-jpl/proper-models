@@ -1,0 +1,2 @@
+To run the PROPER prescription DST2.m, you need the FITS files of the DST2 error maps included in the repo. In order for the actual FITS files to download instead of their placeholders, you must have Git LFS installed. If you don't already, you can type this at a terminal command line on Linux or Mac:
+git lfs install
